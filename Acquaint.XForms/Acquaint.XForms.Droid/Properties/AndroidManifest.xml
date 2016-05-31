@@ -6,7 +6,11 @@
 	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 	<application android:theme="@style/AcquaintTheme" android:label="Acquaint XF">
 		<!-- Put your Google Maps V2 API Key here. -->
-		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAxKmiSvPnz_egmXBCSZTnkQ2i-tL022h0" />
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBxXJzVDPFE_JSw7PUisWEUxSzkOdcSsOM" />
 		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+		<!-- Put your Google Maps V2 API Key here. -->
+		<!--
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAxKmiSvPnz_egmXBCSZTnkQ2i-tL022h0" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />-->
 	</application>
 </manifest>
